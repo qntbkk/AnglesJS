@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package xmlns="http://www.mendix.com/package/1.0/">
-    <clientModule name="FloorPlan" version="1.0.0" xmlns="http://www.mendix.com/clientModule/1.0/">
+    <clientModule name="AnglesJS" version="1.0.0" 
+        xmlns="http://www.mendix.com/clientModule/1.0/">
         <widgetFiles>
-            <widgetFile path="FloorPlan/FloorPlan.xml" />
+            <widgetFile path="AnglesJS/AnglesJS.xml" />
         </widgetFiles>
         <files>
-            <file path="FloorPlan/widget/" />
+            <file path="AnglesJS/widget/" />
         </files>
     </clientModule>
 </package>
